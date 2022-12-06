@@ -6,7 +6,6 @@ const twilioClient = require("twilio")(
   "405d4b9d85e4118627287ae5893cd8cc"
 );
 
-// For hashing password
 
 // Define user model schema
 const UserSchema = new mongoose.Schema({
